@@ -1,7 +1,7 @@
 ### Olá! Eu sou Wesley Guilherme 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-guilherme-de-lima-484123230/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white(https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.linkedin.com/in/wesley-guilherme-de-lima-484123230/](https://www.instagram.com/wguilheerme/)https://www.instagram.com/wguilheerme/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wguilheerme/)
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=Wesley-Guilherme-de-lima&show_icons=true&theme=dracula)
 
